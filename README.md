@@ -1,5 +1,5 @@
-Used Google Books API to sort books into cards
-using React
+## Used Google Books API to sort books into cards
+## using React. I created this project 
 
-
-Able to search and sort books by oldest and newest published date
+## **What it does** 
+### This app allows you to search and sort any book by oldest and newest published date using the googl books api.
